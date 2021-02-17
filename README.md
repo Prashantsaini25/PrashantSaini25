@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <img src ="https://github-readme-stats.vercel.app/api?username=prashantsaini25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"  alt="animated" />
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prashantsaini25) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prashant-saini-2845b015a//)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/prashant.saine.5)  
