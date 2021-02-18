@@ -1,9 +1,9 @@
-### Hi there 👋, Prashant Saini
+### 👋 
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/prashantsaini25/prashantsaini25/master/text.gif" />
 </h1>
 
-I am Devloper .............
+
 
 Here are some ideas to get you started:
 
