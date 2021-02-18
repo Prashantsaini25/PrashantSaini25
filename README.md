@@ -3,6 +3,13 @@
  <img src="https://raw.githubusercontent.com/prashantsaini25/prashantsaini25/master/text (2).gif" />
 </h1>
 
+<p align="center">
+    <a href="https://medium.com/@princeprashantsaini"><img alt="Blog" src="https://img.shields.io/badge/check-website-green?logo=rss&style=for-the-badge"></a>
+    <a href="https://www.linkedin.com/in/prashant-saini-2845b015a/"><img alt="LinkedIn" src="https://img.shields.io/badge/connect-Prashant_Saini-green?logo=linkedin&style=for-the-badge"></a>
+    <a href="https://www.instagram.com/princeprashantsaini/"><img alt="Instagram" src="https://img.shields.io/badge/follow-@Princeprashantsaini-green?logo=instagram&style=for-the-badge"></a>
+</p>
+
+
 
 
 Here are some ideas to get you started:
