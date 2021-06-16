@@ -13,10 +13,10 @@
 
 # awesome-learning
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-[![Build Status](https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master)]
+![Build Status](https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master)
 ![DevOps](https://img.shields.io/badge/Build%20For-DevOps-blue.svg)
-[![License](https://img.shields.io/badge/License-CC%204.0-brightgreen.svg)]
-[![Slack](https://img.shields.io/badge/Community-Slack-orange.svg)]
+![License](https://img.shields.io/badge/License-CC%204.0-brightgreen.svg)
+![Slack](https://img.shields.io/badge/Community-Slack-orange.svg)
 
  
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashantsaini25/Prashantsaini25/master/software-services-bg.gif" width="360px"/>
