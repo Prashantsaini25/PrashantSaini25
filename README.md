@@ -13,7 +13,7 @@
 
 # awesome-learning
 <p align="center">
- ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+ <a ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ></a>
  ![Build Status](https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master)
  ![DevOps](https://img.shields.io/badge/Build%20For-DevOps-blue.svg)
  ![License](https://img.shields.io/badge/License-CC%204.0-brightgreen.svg)
