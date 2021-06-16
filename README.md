@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   <img src="https://github.com/Prashantsaini25/PrashantSaini25/blob/main/200.gif" width="1200" height="400"/>
 </h1>
-##<h1 align="center">
-## <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantsaini25&layout=compact" />
-## <img src="https://raw.githubusercontent.com/prashantsaini25/prashantsaini25/master/Screenshot (42).png" />
-##</h1>
+<!--##<h1 align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantsaini25&layout=compact" />
+ <img src="https://raw.githubusercontent.com/prashantsaini25/prashantsaini25/master/Screenshot (42).png" />
+</h1> -->
