@@ -10,7 +10,15 @@
     <a href="https://www.instagram.com/princeprashantsaini/"><img alt="Instagram" src="https://img.shields.io/badge/follow-@Princeprashantsaini-green?logo=instagram&style=for-the-badge"></a>
 </p>
 
-
+<p align="center">
+# awesome-learning
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master)](https://travis-ci.org/TheRemoteLab/awesome-learning)
+![DevOps](https://img.shields.io/badge/Build%20For-DevOps-blue.svg)
+[![License](https://img.shields.io/badge/License-CC%204.0-brightgreen.svg)](http://creativecommons.org/licenses/by-nc/4.0/)
+[![Slack](https://img.shields.io/badge/Community-Slack-orange.svg)](https://letsdevops.slack.com)
+</p>
+ 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashantsaini25/Prashantsaini25/master/software-services-bg.gif" width="360px"/>
 
 Here are some ideas to get you started:
