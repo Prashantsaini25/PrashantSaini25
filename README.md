@@ -23,9 +23,21 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-| [Philosophy](#philosophi) :thought_balloon: | [Processes](#processes) :speech_balloon: | [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :arrows_counterclockwise: | [Continuous Delivery](#continuous-delivery) :arrows_counterclockwise: |
+| [Philosophy](#philosophy) :thought_balloon: | [Processes](#processes) :speech_balloon: | [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :arrows_counterclockwise: | [Continuous Delivery](#continuous-delivery) :arrows_counterclockwise: |
 |---------------------------------------------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------|
 |                                             |                                          |                                                             |                                                                 |                                                                            |                                                                       |
+
+
+| [Infrastructure As Code](#infrastructure-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [IAAS Providers](#iaas-providers) :cloud: | [PAAS Providers](#paas-providers) :cloud: | [Containerisation](#containerisation) :ship: |
+|---------------------------------------------------------|---------------------------------------|--------------------------------------|-------------------------------------------|-------------------------------------------|----------------------------------------------|
+|                                                         |                                       |                                      |                                           |                                           |                                              |
+
+| [MicroServices](#microservices) :microscope: | [Anti Patterns](#anti-patterns) :no_entry_sign: | [Security](#security) :lock: | [Languages](#languages) :pencil: | [Books](#books) :books: | [Slide Presentations](#slide-presentations) | [Videos](#videos) :tv: |
+|----------------------------------------------|-------------------------------------------------|------------------------------|----------------------------------|---------------------------------------------|--------------------------|-----------------------|
+|                                              |                                                 |                                  |                         |                                              |                                                 |                                  |
+
+
+
 
 
 <img src ="https://github-readme-stats.vercel.app/api?username=prashantsaini25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"  alt="animated" /> <img src="https://github-readme-stats.vercel.app/api?username=prashantsaini25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="animated"/>
