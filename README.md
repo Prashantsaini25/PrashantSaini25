@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about MlOps DevOps Cloud
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-<img src ="https://github-readme-stats.vercel.app/api?username=prashantsaini25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"  alt="animated" />
-<img src="https://github-readme-stats.vercel.app/api?username=prashantsaini25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="animated"/>
+<img src ="https://github-readme-stats.vercel.app/api?username=prashantsaini25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"  alt="animated" /> <img src="https://github-readme-stats.vercel.app/api?username=prashantsaini25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="animated"/>
 <h1 align="center">
   <img src="https://github.com/Prashantsaini25/PrashantSaini25/blob/main/200.gif" width="1200" height="400"/>
 </h1>
