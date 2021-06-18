@@ -8,11 +8,18 @@
     <a href="https://medium.com/@princeprashantsaini"><img alt="Blog" src="https://img.shields.io/badge/check-website-green?logo=rss&style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/prashant-saini-2845b015a/"><img alt="LinkedIn" src="https://img.shields.io/badge/connect-Prashant_Saini-green?logo=linkedin&style=for-the-badge"></a>
     <a href="https://www.instagram.com/princeprashantsaini/"><img alt="Instagram" src="https://img.shields.io/badge/follow-@Princeprashantsaini-green?logo=instagram&style=for-the-badge"></a>
-    <a> <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+    
 </p>
 
 
 # awesome-learning
+<p align="center">
+    <a><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+    <a><img alt="Build Status" src="https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master"></a>
+    <a><img alt="DevOps" src="https://img.shields.io/badge/Build%20For-DevOps-blue.svg"></a>
+    <a><img alt="License" src="https://img.shields.io/badge/License-CC%204.0-brightgreen.svg"></a>
+    <a><img alt="Slack" src="https://img.shields.io/badge/Community-Slack-orange.svg"></a>
+ </p>
 
  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
  ![Build Status](https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master)
