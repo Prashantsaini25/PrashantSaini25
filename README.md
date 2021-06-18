@@ -14,6 +14,7 @@
 
 # awesome-learning
 <p align="center">
+    # awesome-learning
     <a><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
     <a><img alt="Build Status" src="https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master"></a>
     <a><img alt="DevOps" src="https://img.shields.io/badge/Build%20For-DevOps-blue.svg"></a>
