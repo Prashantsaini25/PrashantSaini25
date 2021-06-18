@@ -3,7 +3,7 @@
  <img src="https://raw.githubusercontent.com/prashantsaini25/prashantsaini25/master/text (2).gif" />
 </h1>
 
-# 📫 How to reach me: --
+### 📫How to reach me: --
 <p align="center">
     <a href="https://medium.com/@princeprashantsaini"><img alt="Blog" src="https://img.shields.io/badge/check-website-green?logo=rss&style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/prashant-saini-2845b015a/"><img alt="LinkedIn" src="https://img.shields.io/badge/connect-Prashant_Saini-green?logo=linkedin&style=for-the-badge"></a>
@@ -12,7 +12,7 @@
 </p>
 
 
-# awesome-learning
+### Awesome Learning✍🤝
 <p align="center">
     <a><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
     <a><img alt="Build Status" src="https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master"></a>
