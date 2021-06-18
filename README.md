@@ -21,7 +21,7 @@
     <a><img alt="Slack" src="https://img.shields.io/badge/Community-Slack-orange.svg"></a>
  </p>
 
-You Tried & failed👉Most people won't even try😞Rejection does not mean you aren't good enough😊We just need to be determined enough to find it🤔
+👉�You Tried & failed👉Most people won't even try😞Rejection does not mean you aren't good enough😊We just need to be determined enough to find it🤔👈
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashantsaini25/Prashantsaini25/master/software-services-bg.gif" width="360px"/>
