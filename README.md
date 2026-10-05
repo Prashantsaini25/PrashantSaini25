@@ -1,63 +1,40 @@
-### 👋 
-<h1 align="center">
- <img src="https://raw.githubusercontent.com/prashantsaini25/prashantsaini25/master/text.gif" />
-</h1>
+# Prashant Saini
 
-### How to reach me:📫 --
-<p align="center">
-    <a href="https://medium.com/@princeprashantsaini"><img alt="Blog" src="https://img.shields.io/badge/check-website-green?logo=rss&style=for-the-badge"></a>
-    <a href="https://www.linkedin.com/in/prashant-saini-2845b015a/"><img alt="LinkedIn" src="https://img.shields.io/badge/connect-Prashant_Saini-green?logo=linkedin&style=for-the-badge"></a>
-    <a href="https://www.instagram.com/princeprashantsaini/"><img alt="Instagram" src="https://img.shields.io/badge/follow-@Princeprashantsaini-green?logo=instagram&style=for-the-badge"></a>
-    
-</p>
+**Lead LLMOps Engineer at [Zeblok Computational](https://www.zeblok.com)** · AI/LLM infrastructure · Kubernetes & GPU platforms
 
+I build and run the infrastructure that serves large language models in production — from H100/A100 GPU clusters to edge nodes on ships and fully air-gapped on-prem sites. 6+ years across DevOps, MLOps and LLMOps.
 
-### Awesome Learning✍🤝
-<p align="center">
-    <a><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
-    <a><img alt="Build Status" src="https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master"></a>
-    <a><img alt="DevOps" src="https://img.shields.io/badge/Build%20For-DevOps-blue.svg"></a>
-    <a><img alt="License" src="https://img.shields.io/badge/License-CC%204.0-brightgreen.svg"></a>
-    <a><img alt="Slack" src="https://img.shields.io/badge/Community-Slack-orange.svg"></a>
- </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-princeprashantsaini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeprashantsaini/)
+[![Email](https://img.shields.io/badge/Email-princeprashantsaini%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:princeprashantsaini@gmail.com)
 
-👉👮‍♂️You Tried & failed👉Most people won't even try😞Rejection does not mean you aren't good enough😊We just need to be determined enough to find it🤔👈
+## What I work on
 
+- **LLM serving in production.** 16 Kubernetes clusters (~150 nodes, 40 NVIDIA GPUs: H100/A100 with NVLink, RTX 6000 Blackwell Pro) serving Llama 70B, Qwen 72B and a 4B vision-language model to 400–600 concurrent users, ~1M tokens a day, on vLLM, llama.cpp and Ollama.
+- **Inference internals.** A custom vLLM connector that offloads KV cache and model weights to NVMe SSD and CPU RAM. Multi-node serving that pairs tensor parallelism inside a node with pipeline parallelism across nodes, so 70B+ models run on commodity PCIe GPUs without NVLink.
+- **Cloud-to-edge AI.** KubeEdge hubs managing edge nodes at universities and aboard ships, plus fully air-gapped, on-premises installations on a zero-trust architecture.
+- **Platform and security.** A custom API gateway with API-key auth and Istio routing for multi-tenant inference endpoints; MCP servers and LLM agents for automated infrastructure root-cause analysis.
+- **Fine-tuning and RAG.** LoRA, QLoRA and full fine-tuning on the GPU fleet; Ray-based document ingestion into ChromaDB that cut processing time 6× (90 → 15 min per 4 MB document).
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashantsaini25/Prashantsaini25/master/software-services-bg.gif" width="360px"/>
+## Tech stack
 
-### Here are some ideas to get you started:
+| Area | Tools |
+| --- | --- |
+| LLM inference | vLLM · llama.cpp · Ollama · Hugging Face · tensor & pipeline parallelism · KV-cache offloading |
+| LLM apps & fine-tuning | LangChain · LlamaIndex · RAG · MCP · ChromaDB · LoRA / QLoRA · Ray · MLflow |
+| Kubernetes & GPUs | Kubernetes (EKS, AKS, k3s) · KubeEdge · Helm · Istio · NVIDIA GPU Operator · DCGM |
+| Cloud & IaC | AWS · Azure · Terraform · Ansible |
+| CI/CD & observability | Docker · GitHub Actions · Jenkins · Prometheus · Grafana |
+| Languages & OS | Python · Bash · SQL · Linux |
 
-- 🔭 I’m currently working on Devops Engineer 
-- 🌱 I’m currently learning MlOps , DevOps AL , Hybrid Multi Cloud , Redhat , Flutter 
-- 👯 I’m looking to collaborate on Creating continents
-- 🤔 I’m looking for help with design
-- 💬 Ask me about MlOps DevOps Cloud
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+## Experience
 
-| [Philosophy](#philosophy) :thought_balloon: | [Processes](#processes) :speech_balloon: | [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :arrows_counterclockwise: | [Continuous Delivery](#continuous-delivery) :arrows_counterclockwise: |
-|---------------------------------------------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------|
-|                                             |                                          |                                                             |                                                                 |                                                                            |                                                                       |
+**Zeblok Computational** · Ai-MicroCloud®, a cloud-to-edge AI PaaS · *Oct 2021 – present*
+- Lead LLMOps Engineer · *Apr 2023 – present* · leading a 7-member platform team
+- Lead DevOps Engineer · *Oct 2021 – Apr 2023*
 
+**RedCarpet Tech** · DevOps Engineer · *Oct 2020 – Oct 2021*
+- AWS and k3s infrastructure for a Y Combinator-backed payments and lending platform (~400K daily users, ~50K transactions a day)
 
-| [Infrastructure As Code](#infrastructure-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [IAAS Providers](#iaas-providers) :cloud: | [PAAS Providers](#paas-providers) :cloud: | [Containerisation](#containerisation) :ship: |
-|---------------------------------------------------------|---------------------------------------|--------------------------------------|-------------------------------------------|-------------------------------------------|----------------------------------------------|
-|                                                         |                                       |                                      |                                           |                                           |                                              |
+---
 
-| [MicroServices](#microservices) :microscope: | [Anti Patterns](#anti-patterns) :no_entry_sign: | [Security](#security) :lock: | [Languages](#languages) :pencil: | [Books](#books) :books: | [Slide Presentations](#slide-presentations) | [Videos](#videos) :tv: |
-|----------------------------------------------|-------------------------------------------------|------------------------------|----------------------------------|---------------------------------------------|--------------------------|-----------------------|
-|                                              |                                                 |                                  |                         |                                              |                                                 |                                  |
-
-
-
-
-
-<img src ="https://github-readme-stats.vercel.app/api?username=prashantsaini25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"  alt="animated" /> <img src="https://github-readme-stats.vercel.app/api?username=prashantsaini25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="animated"/>
-
-<img src="https://github.com/Prashantsaini25/PrashantSaini25/blob/main/200.gif" width="1200" height="400"/>
-
-<!--##<h1 align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantsaini25&layout=compact" />
- <img src="https://raw.githubusercontent.com/prashantsaini25/prashantsaini25/master/Screenshot (42).png" />
-</h1> -->
+<sub>Most of my day-to-day work is in private company repositories, so the public projects here are mostly earlier DevOps work.</sub>
